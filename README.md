@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrastogi03&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrastogi03" /> </p>
 
-- 🌱 I’m currently learning **AWS , Spring Reactive**
+- 🌱 I’m currently exploring **AWS , Spring Reactive**
 
 - 💬 Ask me about **Java , SpringBoot ,MySql ,MERN**
 
