@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrastogi03&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrastogi03" /> </p>
 
-- 🌱 I’m currently exploring System design and Ai tools and tech(Copilot , LLMs, MCP)
+- 🌱 I’m currently exploring System design and Ai tools
 
 - 💬 Ask me about **Java , SpringBoot ,MySql ,MERN, AWS **
 
